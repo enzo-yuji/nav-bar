@@ -49,6 +49,8 @@ li {
 
     margin: 4px;
 
+    z-index: 1;
+
     text-decoration: none;
     color: black;
 }
